@@ -1,0 +1,86 @@
+# Core Web Framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database
+sqlalchemy
+alembic
+
+# Authentication & Security
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+pyjwt
+
+# API & HTTP
+httpx
+pydantic
+pydantic[email]
+starlette
+
+# ML & Embeddings
+sentence-transformers
+numpy
+torch
+transformers
+scikit-learn
+
+# Google ADK (Agent Development Kit)
+google-adk
+
+# OpenRouter/LiteLLM
+litellm
+
+# Environment & Configuration
+python-dotenv
+
+# Async Support
+asyncio
+aiofiles
+
+# Data Processing
+pandas
+openpyxl
+
+# Utilities
+uuid
+typing-extensions
+
+# CORS Support
+fastapi-cors
+
+# Optional: For enhanced memory system
+scipy
+matplotlib
+plotly
+
+# Optional: For production deployment
+gunicorn
+redis
+celery
+
+# Development Dependencies (optional)
+pytest
+pytest-asyncio
+black
+flake8
+mypy
+
+# Logging & Monitoring (optional)
+loguru
+prometheus-client
+
+# Rate Limiting (optional)
+slowapi
+
+# Security Extensions (optional)
+cryptography
+bleach
+
+# File Processing
+python-magic
+zipfile36
+
+# System Monitoring (optional)
+psutil
