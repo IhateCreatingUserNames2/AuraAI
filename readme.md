@@ -4,6 +4,10 @@
 
 The Aura Multi-Agent System is an advanced AI platform that enables users to create and manage multiple AI agents, each with their own isolated memory system and sophisticated contextual understanding capabilities. Built with Narrative Context Framing (NCF) technology, these agents can maintain deep, contextual conversations with persistent memory and adaptive learning.
 
+![image](https://github.com/user-attachments/assets/aac7e2b6-1df2-4325-9d0f-d6895da8dda2)
+![image](https://github.com/user-attachments/assets/a0cf4739-202b-449e-94ea-5b583da65a02)
+
+
  - This framework works with OpenRouter + LiteLLM for LLM Inference (Default is openrouter/openai/gpt-4o-mini") 
  - Embedding models runs locally thru sentence-transformers 
 
