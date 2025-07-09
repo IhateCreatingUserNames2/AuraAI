@@ -144,44 +144,13 @@ Sophisticated memory management:
 - Memory decay and salience tracking
 - Connection graph between memories
 
-#### 4. **Enhanced Memory** (`enhanced_memory_system.py`) - OPTIONAL
+#### 4. **Enhanced Memory** (`enhanced_memory_system.py`) 
 Advanced features that build upon the base memory system:
 - Adaptive concept clustering
 - Domain specialization
 - Performance-weighted retrieval
 - GenLang-inspired architecture
 
-## 🤔 Why is Enhanced Memory Optional?
-
-The enhanced memory system (`enhanced_memory_system.py`) is designed as an optional upgrade for several important reasons:
-
-### 1. **Computational Resources**
-- **Base System**: Lightweight, runs efficiently on modest hardware
-- **Enhanced System**: Requires more CPU/memory for clustering algorithms and additional tracking
-- Ideal for users who want to start simple and scale up as needed
-
-### 2. **Complexity Management**
-- **Base System**: Straightforward memory storage and retrieval
-- **Enhanced System**: Adds layers of abstraction with concept clusters and domain tracking
-- Some use cases don't need the additional complexity
-
-### 3. **Backward Compatibility**
-- Existing agents continue to work without modification
-- Users can selectively upgrade specific agents
-- No forced migration or breaking changes
-
-### 4. **Performance Trade-offs**
-```python
-# Base system - Fast and simple
-memories = memory_blossom.retrieve_memories(query, top_k=5)
-
-# Enhanced system - More sophisticated but slower
-memories = memory_blossom.adaptive_retrieve_memories(
-    query=query,
-    domain_context="physics",
-    use_performance_weighting=True
-)
-```
 
 ### 5. **Use Case Flexibility**
 - **Simple Chatbots**: Base system is sufficient
