@@ -8,6 +8,8 @@ The Aura Multi-Agent System is an advanced AI platform that enables users to cre
 
 ### Core Capabilities
 - **NCF (Narrative Context Framing)**: Advanced conversation architecture that builds narrative understanding over time
+   ![image](https://github.com/user-attachments/assets/b5c6d96d-68bd-4267-9f9c-ecfc37c26689)
+
 - **Isolated Memory Systems**: Each agent has its own MemoryBlossom instance for personalized memory management
 - **RAG (Retrieval-Augmented Generation)**: Context-aware memory retrieval for relevant responses
 - **Reflective Analysis**: Automatic interaction analysis and memory formation
