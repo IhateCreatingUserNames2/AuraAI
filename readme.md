@@ -6,6 +6,12 @@ The Aura Multi-Agent System is an advanced AI platform that enables users to cre
 
 Online Demo: [httpaura-dahu.onrender.com/ ](https://aura-dahu.onrender.com/)
 
+Aura has an Adaptive Memory, which is in some way like the MemOS : https://arxiv.org/pdf/2505.22101
+
+AdaptiveRAG Concept: https://github.com/IhateCreatingUserNames2/AdaptiveRAG
+
+
+
 ![image](https://github.com/user-attachments/assets/aac7e2b6-1df2-4325-9d0f-d6895da8dda2)
 
 
