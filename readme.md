@@ -10,6 +10,8 @@ Aura has an Adaptive Memory, which is in some way like the MemOS : https://arxiv
 
 AdaptiveRAG Concept: https://github.com/IhateCreatingUserNames2/AdaptiveRAG
 
+Check Gemini Analyzis : https://github.com/IhateCreatingUserNames2/AuraAI/blob/main/Gemini_analyze_MemOS_AURA.md
+
 
 
 ![image](https://github.com/user-attachments/assets/aac7e2b6-1df2-4325-9d0f-d6895da8dda2)
